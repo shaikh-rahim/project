@@ -1,0 +1,11 @@
+button{
+    color: black;
+    width:50%;
+    margin:10px;
+   
+}
+body{
+    text-align: center;
+    padding-top: 230px;
+    background:violet;
+}
