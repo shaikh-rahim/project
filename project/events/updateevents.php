@@ -49,8 +49,8 @@ if(isset($_POST['save']))
     if($query_run)
     {
         
-       header("location:http://localhost/project/events/events.php");
-    //    echo '<script>alert("Update Successfully")</script>'; 
+       //header("location:http://localhost/project/events/events.php");
+       echo '<script>alert("Update Successfully")</script>'; 
   
     }
     else
